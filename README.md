@@ -28,4 +28,5 @@ Select the desired distance algorithm to influence the pathfinding calculations.
 
 ###### Click PLAY and let the A* Algorithm discover the shortest path to your designated target. Witness its journey through the nodes, where it colors each visited node, unveiling the sequence it follows to pinpoint the optimal path for you.
 
+<img src="https://github.com/LubnaMBsharat/PathFinding/blob/master/pathFinding.jpg" width="800"  hight = "400" > 
 
